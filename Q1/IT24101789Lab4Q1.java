@@ -11,13 +11,13 @@ public class IT24101789Lab4Q1{
 			System.out.print("The number is Positive");
 		
 		}
-			else if (num < 0) {
-				System.out.print("The number is Negative");
-			}
+		else if (num < 0) {
+			System.out.print("The number is Negative");
+		}
 			
-			else {
-				System.out.print("The number is Zero");
-			}
-			System.out.println();
+		else {
+			System.out.print("The number is Zero");
+		}
+		System.out.println();
 	}
 }	
